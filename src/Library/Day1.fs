@@ -1,7 +1,6 @@
 namespace Library.Day1
 
 open System
-open System.Collections.Generic
 open System.Text.RegularExpressions
 
 module Part1 =
